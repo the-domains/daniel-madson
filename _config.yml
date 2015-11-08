@@ -1,0 +1,23 @@
+name: Daniel Madson
+favicon: null
+layout_spectrum: 0.7121866496745497
+typography_spectrum: 0.4504583338275552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7590101296082139
+  lightness: 0.14373446092940867
+  saturation: 0.31411271751858294
+  rhythmicContrast: 0.8911617004778236
+purpose: []
