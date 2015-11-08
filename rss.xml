@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Madson]]></title>
+        <description><![CDATA[Daniel Madson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 Nov 2015 05:50:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Start of Something New.]]></title>
+            <description><![CDATA[<article><h1>The Start of Something New.</h1><p>Obligatory post to establish grounds for growth and direction.  Because why not.</p></article>]]></description>
+            <link>undefinedthe-start-of-something-new/index.html</link>
+            <guid isPermaLink="false">b161e51c-c109-4c2a-bf90-db2ce156549a</guid>
+            <pubDate>Sun, 08 Nov 2015 05:50:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
