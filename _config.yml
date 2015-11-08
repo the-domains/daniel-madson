@@ -1,7 +1,7 @@
 name: Daniel Madson
 favicon: null
 layout_spectrum: 0.88563
-typography_spectrum: 0.4504583338275552
+typography_spectrum: 1
 title: Daniel Madson Photography
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#b9b6a7'
   brandStrength: 0.5
   lightness: 0.14373446092940867
-  saturation: 0.31411271751858294
+  saturation: 0.375
   rhythmicContrast: 0.8911617004778236
 purpose: []
